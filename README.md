@@ -4,7 +4,7 @@
 
   <p>A <b>Simple Sass project</b> website is a quick for this framework from the process , i want to showcase it and i try to use all functionalities to test it carefully </p>
 
-👉 Live Demo: <a href=''>Live Demo</a>
+👉 Live Demo: <a href='https://sass-fp.vercel.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
@@ -15,6 +15,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='./images/project11'/><br />
-<img src='./images/project12'/>
+<img src='./images/project11.png'/><br />
+<img src='./images/project12.png'/>
 </div>
