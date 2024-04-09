@@ -1,4 +1,4 @@
-<div align='center'><img style="width:30%" src=''/></div>
+<div align='center'><img style="width:30%" src='./images/Sass.jpg'/></div>
 
 <h2>About the project</h2>
 
@@ -15,6 +15,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src=''/><br />
-<img src=''/>
+<img src='./images/project11'/><br />
+<img src='./images/project12'/>
 </div>
