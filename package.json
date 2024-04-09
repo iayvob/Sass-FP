@@ -1,0 +1,15 @@
+{
+  "name": "Sass Project",
+  "version": "1.0.0",
+  "description": "Simple Project using Sass WrameWork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "sass ./styles/styles.scss ./styles/styles.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.74.1"
+  }
+}
